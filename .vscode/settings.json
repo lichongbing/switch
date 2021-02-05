@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "string_view": "cpp",
+        "*.tcc": "cpp"
+    },
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
